@@ -9,6 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen)]()
 [![Languages](https://img.shields.io/badge/UI%20languages-7-orange)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22694720.svg)](https://doi.org/10.5281/zenodo.22694720)
 
 </div>
 
