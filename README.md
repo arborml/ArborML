@@ -262,11 +262,11 @@ If ArborML contributes to work you publish, please cite the software paper:
 
 ### Related work using the ArborML analytical core
 
-1. T. Sadat, *Prediction of Concrete Peak Load and Compressive Failure Strength Using Machine Learning*, Key Eng. Mater. **938** (2022) 235-245.
-2. T. Sadat, *Predicting the Average Composition of an AlFeNiTiVZr-Cr Alloy with Machine Learning and X-ray Spectroscopy*, Compounds **3** (2023) 224‚Äì232.
-3. T. Sadat, *Machine Learning-Assisted Tensile Modulus Prediction for Flax Fiber/Shape Memory Epoxy Hygromorph Composites*, Appl. Mech. **4** (2023) 752‚Äì762.
-4. T. Sadat, *A comparative study of machine learning approaches for predicting viscosity in Sacran/CNF solutions*, Chem. Phys. Lett. **836** (2024) 141022.
-5. T. Sadat, *A machine learning approach to predicting resonance frequency in soft magnetic composites*, Appl. Phys. A **132** (2026) 5.
+1. T. Sadat, *Prediction of Concrete Peak Load and Compressive Failure Strength Using Machine Learning*, Key Eng. Mater. **938** (2022) 235-245. https://doi.org/10.4028/p-crmx3f
+2. T. Sadat, *Predicting the Average Composition of an AlFeNiTiVZr-Cr Alloy with Machine Learning and X-ray Spectroscopy*, Compounds **3** (2023) 224-232. https://doi.org/10.3390/compounds3010018
+3. T. Sadat, *Machine Learning-Assisted Tensile Modulus Prediction for Flax Fiber/Shape Memory Epoxy Hygromorph Composites*, Appl. Mech. **4** (2023) 752-762. https://doi.org/10.3390/applmech4020038
+4. T. Sadat, *A comparative study of machine learning approaches for predicting viscosity in Sacran/CNF solutions*, Chem. Phys. Lett. **836** (2024) 141022. https://doi.org/10.1016/j.cplett.2023.141022
+5. T. Sadat, *A machine learning approach to predicting resonance frequency in soft magnetic composites*, Appl. Phys. A **132** (2026) 5. https://doi.org/10.1007/s00339-025-09175-6
 
 ## License
 
