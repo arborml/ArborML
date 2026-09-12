@@ -19,7 +19,7 @@
 
 Machine learning is now routine in materials science, but using it still usually means writing code. **ArborML** (from *arbor*, Latin for tree, and *ML*) closes that gap: it is a cross-platform desktop application that provides a complete, code-free workflow for **tree-based machine learning on tabular experimental data**.
 
-From a standard spreadsheet, ArborML takes you through data exploration, model training, model interpretation, on-demand prediction, and automated PDF reporting ‚All all from a single vertical sidebar.
+From a standard spreadsheet, ArborML takes you through data exploration, model training, model interpretation, on-demand prediction, and automated PDF reporting, all from a single vertical sidebar.
 
 Unlike general-purpose platforms, ArborML is deliberately narrow in scope. It focuses on **tabular regression with tree-based and linear models**, so the standard sequence of a materials-science ML study becomes the default path rather than something you have to assemble yourself.
 
