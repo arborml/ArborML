@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
-[![Version](https://img.shields.io/badge/Version-1.0-brightgreen)]()
+[![Version](https://img.shields.io/badge/Version-2.0-brightgreen)]()
 [![Languages](https://img.shields.io/badge/UI%20languages-7-orange)]()
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22694720.svg)](https://doi.org/10.5281/zenodo.22694720)
 
